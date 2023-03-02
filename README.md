@@ -27,9 +27,9 @@ Probably quite crappy, but hey I gave it a shot and that's really what counts ri
 
 ### Links
 
-- HTML solution URL:([https://your-solution-url.com](https://github.com/veviem/qr-code-challenge/blob/main/index.html)
+- HTML solution URL:([https://your-solution-url.com](https://github.com/veviem/qr-code-challenge/blob/main/index.html))
 - CSS solution URL:(https://github.com/veviem/qr-code-challenge/blob/main/styles.css)
-- Live Site URL:([https://your-live-site-url.com](https://veviem.github.io/qr-code-challenge/)
+- Live Site URL:([https://your-live-site-url.com](https://veviem.github.io/qr-code-challenge/))
 
 ## My process
 
