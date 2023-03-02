@@ -21,9 +21,9 @@ Probably quite crappy, but hey I gave it a shot and that's really what counts ri
 
 ### Screenshot
 
-![Screenshot of my fishy html code](images/htmlcode.png)
-![Screenshot of my fishy css code](images/csscode.png) has been beutifyd later, only so close together to fit screenshot :D
-![screenshot of what it looks like on my display](images/display.png)
+![Screenshot of my fishy html code](/images/htmlcode.png)
+![Screenshot of my fishy css code](/images/csscode.png) has been beutifyd later, only so close together to fit screenshot :D
+![screenshot of what it looks like on my display](/images/display.png)
 
 ### Links
 
